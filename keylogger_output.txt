@@ -1,0 +1,29 @@
+2024-11-29 04:02:59,001 - Special key pressed: Key.alt
+2024-11-29 04:02:59,259 - Special key pressed: Key.tab
+2024-11-29 04:03:00,064 - Special key pressed: Key.tab
+2024-11-29 04:03:00,648 - Special key pressed: Key.tab
+2024-11-29 04:03:05,453 - Special key pressed: Key.alt
+2024-11-29 04:03:05,711 - Special key pressed: Key.tab
+2024-11-29 04:03:07,019 - Special key pressed: Key.alt
+2024-11-29 04:03:09,050 - Key pressed: s
+2024-11-29 04:03:11,150 - Special key pressed: Key.alt
+2024-11-29 04:03:11,321 - Special key pressed: Key.tab
+2024-11-29 04:03:11,798 - Special key pressed: Key.tab
+2024-11-29 04:03:13,169 - Key pressed: k
+2024-11-29 04:03:13,278 - Key pressed: n
+2024-11-29 04:03:13,359 - Key pressed: c
+2024-11-29 04:03:13,377 - Key pressed: s
+2024-11-29 04:03:14,030 - Special key pressed: Key.alt
+2024-11-29 04:03:14,166 - Special key pressed: Key.tab
+2024-11-29 04:03:14,769 - Special key pressed: Key.tab
+2024-11-29 04:03:15,468 - Special key pressed: Key.alt
+2024-11-29 04:03:15,576 - Special key pressed: Key.tab
+2024-11-29 04:03:15,922 - Special key pressed: Key.tab
+2024-11-29 04:03:17,221 - Special key pressed: Key.alt
+2024-11-29 04:03:17,409 - Special key pressed: Key.tab
+2024-11-29 04:03:17,792 - Special key pressed: Key.tab
+2024-11-29 04:03:19,180 - Special key pressed: Key.alt
+2024-11-29 04:03:19,339 - Special key pressed: Key.tab
+2024-11-29 04:03:23,071 - Special key pressed: Key.alt
+2024-11-29 04:03:23,521 - Special key pressed: Key.f4
+2024-11-29 04:03:23,726 - Special key pressed: Key.f4
