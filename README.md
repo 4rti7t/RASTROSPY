@@ -53,27 +53,30 @@ pip install colorama tqdm
 
 1. **Clone the Repository**:
    Download or clone this repository to your local machine.
-
-2. **Run the Tool**:
+   ```
+   git clone https://github.com/4rti7t/RASTROSPY.git
+   cd RASTROSPY
+   ```
+3. **Run the Tool**:
    After cloning the repo, navigate to the directory containing the script and run it:
    ```bash
-   python3 keylogger_payload_generator.py
+   python3 RastroSpy.py
    ```
 
-3. **Select Platform**:
+4. **Select Platform**:
    The tool will prompt you to select the platform you want the payload for:
    - `1. Android`
    - `2. Windows`
    - `3. Linux`
 
-4. **Enter IP and Port**:
+5. **Enter IP and Port**:
    - Enter your local IP address (or the IP of the machine you want to use as a listener).
    - Enter the port number for the reverse connection.
 
-5. **Payload Generation**:
+6. **Payload Generation**:
    - The script will generate the appropriate payload for the selected platform and save it in the current directory.
 
-6. **Listener**:
+7. **Listener**:
    - The tool will automatically start a Metasploit listener on the provided IP and port to capture the incoming connection.
 
 ---
