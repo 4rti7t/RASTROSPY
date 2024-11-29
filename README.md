@@ -103,7 +103,7 @@ Starting Metasploit Listener... 🎧
 
 ---
 
-## 🎨 Customization
+## 🎨 **Customization**
 
 You can easily customize the payload creation process or add new features like:
 
