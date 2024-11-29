@@ -49,7 +49,7 @@ pip install colorama tqdm
 
 ---
 
-## 💻 Usage
+## 💻 **Usage**
 
 1. **Clone the Repository**:
    Download or clone this repository to your local machine.
