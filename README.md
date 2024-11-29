@@ -9,7 +9,7 @@ This tool allows you to generate keylogger payloads for **Android**, **Windows**
 
 ---
 
-## 🚀 Features
+## 🚀 **Features**
 
 - **💥 Multiple Platform Support**:
   - Android 📱
@@ -32,7 +32,7 @@ This tool allows you to generate keylogger payloads for **Android**, **Windows**
 
 ---
 
-## ⚙️ Installation
+## ⚙️ **Installation**
 
 ### Prerequisites
 
